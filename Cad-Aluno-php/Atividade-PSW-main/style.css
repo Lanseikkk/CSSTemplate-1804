@@ -1,0 +1,18 @@
+
+body {
+	background-color: yellow;
+}
+
+
+.footer-text {
+	color: white;
+}
+
+.navbar {
+	background-color: black;
+}
+
+
+.navbar a {
+	color: white !important;
+}
