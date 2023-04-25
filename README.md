@@ -1,5 +1,3 @@
-# PSW1-Inacio-Ciriaco
-
 <!DOCTYPE html>
 <html lang="en">
 <link rel="stylesheet" href="sixth.css" />
